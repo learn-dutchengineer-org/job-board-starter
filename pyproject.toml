@@ -10,6 +10,10 @@ requires-python = ">=3.11"
 dependencies = [
     "psycopg2-binary",
     "redis",
+    "pydantic",
+    "pandas",
+    "pyarrow",
+    "duckdb",
 ]
 
 [project.optional-dependencies]
