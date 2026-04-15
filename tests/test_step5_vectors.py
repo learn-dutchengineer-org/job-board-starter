@@ -1,4 +1,4 @@
-"""Step 4: Vector Search
+"""Step 5: Vector Search
 
 Tests for pgvector setup and semantic search.
 """
